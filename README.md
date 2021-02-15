@@ -4,7 +4,7 @@
 
 (1) Move the Folder to the Desktop
 
-(2) Open 'Command Prompt' and type: 'cd C:\Users{USER}\Desktop\Python Keylog'
+(2) Open 'Command Prompt' and type: 'cd C:\Users\{USER}\Desktop\Python-Key-Logger-main'
 
 (3) Type: 'pip install -r requirements.txt'
 
